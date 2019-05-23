@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+}
+
+.container {
+    background-color: pink;
+    height: 100px;
+    margin: 0;
+}
+
+.carousel {
+    width:600px;
+    height:350px;
+  }
