@@ -4,11 +4,11 @@ body {
 
 .container {
     background-color: pink;
-    height: 100px;
+    height: 100vh;
     margin: 0;
 }
 
 .carousel {
     width:600px;
-    height:350px;
+    height:400px;
   }
