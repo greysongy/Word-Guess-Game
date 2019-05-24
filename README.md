@@ -7,7 +7,7 @@ unicorn companies. They're given 10 guesses per word, and the game iterates thro
 
 [Check out the deployed version here](https://greysongy.github.io/Word-Guess-Game/)
 
-![alt text](assets/imagess/unicornsSite.png)
+![alt text](assets/images/unicornsSite.png)
 
 ### Technologies Used 
 
